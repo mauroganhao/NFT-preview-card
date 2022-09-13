@@ -1,0 +1,127 @@
+
+
+body{
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+
+}
+
+img {
+  position: absolute;
+  bottom: 52%;
+  height: 44%;
+  width: 88%;
+  left: 6%;
+  border-radius: 10px;
+  margin-top: 1em;
+}
+
+p {
+color: hsl(215, 51%, 70%);
+Font-size: 18px;
+padding-left:0.3em;
+margin: 0.3em;
+
+}
+
+h4 {
+  color: hsl(0, 0%, 100%);
+  margin: 0.3em;
+  padding: 0.3em;
+}
+
+hr {
+  border: 1px solid hsl(215, 32%, 27%);
+  width: 85%;
+}
+
+
+.main-body {
+ background-color: hsl(216, 50%, 16%);
+ position: absolute;
+ left: 30%;
+ top: 30%;
+ padding-top: 19em;
+ border-radius: 10px;
+ text-align: left;
+ width: 24%;
+
+}
+
+.top-info {
+  position: relative;
+  padding: 0.4em;
+}
+
+.eth {
+  position: absolute;
+  width: 10px;
+  height: 15px;
+  bottom: 19.5%;
+  left: 5%;
+  display: inline-block;
+}
+
+.clock {
+  display: inline-block;
+  width: 12px;
+  height: 15px;
+  bottom: 19.5%;
+  left: 57%;
+}
+
+.bottom-info {
+  position: relative;
+  display: inline-block;
+  padding: 1.6em;
+  margin: 0.4em;
+  color: hsl(178, 100%, 50%);
+}
+
+
+
+.day {
+  padding-left: 5em;
+
+  color: hsl(215, 51%, 70%);
+}
+
+.line {
+  position: absolute;
+  height: 50px;
+  border-style: solid
+  background-color: hsl(215, 32%, 27%);
+}
+
+.profile {
+  width: 27px;
+  height: 30px;
+  bottom: 17px;
+  left: 12px;
+  border: 1px solid white;
+  border-radius: 15px;
+
+}
+
+.jules {
+  position: relative;
+  left: 10%;
+  padding: 0.5em;
+  margin: 1em;
+  color: hsl(215, 51%, 70%);
+}
+
+.name {
+  color: hsl(0, 0%, 100%);
+}
+
+
+.attribution {
+
+  font-size: 11px; text-align: center;
+}
+
+.attribution a {
+
+  color: hsl(228, 45%, 44%);
+ }
